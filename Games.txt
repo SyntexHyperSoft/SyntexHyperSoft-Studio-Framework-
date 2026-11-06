@@ -1,0 +1,11 @@
+
+Name:Dino2
+Owner:SyntexHyperSoft
+Info:Игра(динозаврик) от SyntexHyperSoft,прыгай и проходи волны достигая вершин! Но учти что чем дальше тем труднее!
+Game:[https://syntexhypersoft.github.io/MrFeastInfo/Dino2.html]
+
+
+Name:NeonStar
+Owner:SyntexHyperSoft
+Info:Игра кликер(NeonStar) от SyntexHyperSoft,где нужно открывать достижения и тапать на звезду зарабатывая очки!
+Game:[https://syntexhypersoft.github.io/NeonStar/NeonStar.html]
