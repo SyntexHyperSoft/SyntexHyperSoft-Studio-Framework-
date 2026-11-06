@@ -2,7 +2,7 @@
 Name:Dino2
 Owner:SyntexHyperSoft
 Info:Игра(динозаврик) от SyntexHyperSoft,прыгай и проходи волны достигая вершин! Но учти что чем дальше тем труднее!
-ICON:[ ]
+ICON:[None]
 Preview 1 - None
 Preview 2 - None
 Preview 3 - None
@@ -14,7 +14,7 @@ Game:[https://syntexhypersoft.github.io/MrFeastInfo/Dino2.html]
 Name:NeonStar
 Owner:SyntexHyperSoft
 Info:Игра кликер(NeonStar) от SyntexHyperSoft,где нужно открывать достижения и тапать на звезду зарабатывая очки!
-ICON: [ ]
+ICON: [data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><polygon points='50,8 61,38 94,38 67,56 77,86 50,68 23,86 33,56 6,38 39,38' fill='%23b380ff' stroke='%23fff' stroke-width='2' stroke-linejoin='round'/></svg>]
 Preview 1 - None
 Preview 2 - None
 Preview 3 - None
